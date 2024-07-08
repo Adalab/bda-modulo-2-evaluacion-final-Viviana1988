@@ -163,3 +163,7 @@ WHERE r.rental_id IN (
 );
 
 -- 23. Encuentra el nombre y apellido de los actores que no han actuado en ninguna película de la categoría "Horror". Utiliza una subconsulta para encontrar los actores que han actuado en películas de la categoría "Horror" y luego exclúyelos de la lista de actores. 
+
+-- 24. Encuentra el título de las películas que son comedias y tienen una duración mayor a 180 minutos en la tabla film. 
+
+-- 25. Encuentra todos los actores que han actuado juntos en al menos una película. La consulta debe mostrar el nombre y apellido de los actores y el número de películas en las que han actuado juntos. 
